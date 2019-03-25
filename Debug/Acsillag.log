@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\norbert\source\repos\acsillag\acsillag\node.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\norbert\source\repos\acsillag\acsillag\node.h(135): warning C4018: '<': signed/unsigned mismatch
+  Acsillag.vcxproj -> C:\Users\Norbert\source\repos\Acsillag\Debug\Acsillag.exe
